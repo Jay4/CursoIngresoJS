@@ -7,8 +7,9 @@ function mostrar()
    if (edad < 13) 
    {
    	    alert("es menor")
-   }else
+   }else (>12 )
 
 
 
-}//FIN DE LA FUNCIÓN
+}
+//FIN DE LA FUNCIÓN
